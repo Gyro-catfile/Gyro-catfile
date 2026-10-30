@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">0bamium — José Méndez</title><desc id="desc">Banner espacial con una ventana de código, estrellas y un pequeño robot pixel art.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1028"/><stop offset="1" stop-color="#241243"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<g fill="#b5a1ff"><circle cx="760" cy="45" r="2"/><circle cx="1110" cy="80" r="3"/><circle cx="700" cy="295" r="2"/><circle cx="1150" cy="285" r="2"/><circle cx="620" cy="65" r="2"/></g>
+<g font-family="monospace"><text x="64" y="66" fill="#67e8f9" font-size="16" letter-spacing="4">PLAYER PROFILE / ONLINE</text>
+<text x="60" y="152" fill="#f5f3ff" font-size="76" font-weight="bold">0bamium<tspan fill="#c084fc">_</tspan></text>
+<text x="64" y="196" fill="#c4b5fd" font-size="23">José Méndez</text>
+<text x="64" y="254" fill="#e2e8f0" font-size="19">Código, curiosidad y una buena playlist.</text>
+<text x="64" y="306" fill="#67e8f9" font-size="15">[ BUILD ]  [ LEARN ]  [ REPEAT ]</text></g>
+<rect x="800" y="70" width="310" height="220" rx="16" fill="#0b1020" stroke="#a78bfa" stroke-opacity=".5"/>
+<path d="M800 108H1110" stroke="#a78bfa" stroke-opacity=".3"/><g fill="#f472b6"><circle cx="822" cy="90" r="4"/></g><circle cx="838" cy="90" r="4" fill="#fbbf24"/><circle cx="854" cy="90" r="4" fill="#34d399"/>
+<g shape-rendering="crispEdges"><path d="M948 128h16v16h-16zM916 150h80v16h16v64h-16v16h-80v-16h-16v-64h16z" fill="#c4b5fd"/><path d="M916 170h80v44h-80z" fill="#17132e"/><path d="M930 182h12v12h-12zM970 182h12v12h-12z" fill="#67e8f9"/><path d="M942 218h28v8h-28z" fill="#7c3aed"/><path d="M900 178h-12v32h12zM1012 178h12v32h-12z" fill="#c084fc"/></g>
+<text x="955" y="272" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="13">status: creating cool stuff</text></svg>
