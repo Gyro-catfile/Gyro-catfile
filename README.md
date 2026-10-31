@@ -13,10 +13,11 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-15231C?style=flat-square&amp;logo=python&amp;logoColor=BADB8D&amp;color=15231C" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-15231C?style=flat-square&amp;logo=javascript&amp;logoColor=D5C69A&amp;color=15231C" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-15231C?style=flat-square&amp;logo=kotlin&amp;logoColor=BADB8D&amp;color=15231C" />
   <img alt="Java" src="https://img.shields.io/badge/Java-15231C?style=flat-square&amp;logoColor=D5C69A&amp;color=15231C" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-15231C?style=flat-square&amp;logoColor=D5C69A&amp;color=15231C" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-15231C?style=flat-square&amp;logo=postgresql&amp;logoColor=BADB8D&amp;color=15231C" />
-  <br /><sub>Automatización y datos · Desarrollo web · POO y patrones · Unity y .NET · Bases relacionales<br />Entorno de ejecución: Node.js</sub>
+  <br /><sub>Automatización y datos · Web y Android · POO y patrones · Unity y .NET · Bases relacionales<br />Entorno de ejecución: Node.js</sub>
 </p>
 
 ### `$ cat tools.txt`
@@ -24,7 +25,7 @@
 <table>
 <tr>
 <td><strong>Desarrollo &amp; creación</strong></td>
-<td><img alt="Node.js" src="https://img.shields.io/badge/Node.js-15231C?style=flat-square&amp;logo=nodedotjs&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-15231C?style=flat-square&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-15231C?style=flat-square&amp;logo=aseprite&amp;logoColor=D5C69A&amp;color=15231C" /> <img alt="Unity" src="https://img.shields.io/badge/Unity-15231C?style=flat-square&amp;logo=unity&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Blender" src="https://img.shields.io/badge/Blender-15231C?style=flat-square&amp;logo=blender&amp;logoColor=D5C69A&amp;color=15231C" /> <img alt="Git" src="https://img.shields.io/badge/Git-15231C?style=flat-square&amp;logo=git&amp;logoColor=BADB8D&amp;color=15231C" /><br /><sub>Android Studio · Visual Studio · Apache NetBeans</sub></td>
+<td><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-15231C?style=flat-square&amp;logo=androidstudio&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-15231C?style=flat-square&amp;logo=nodedotjs&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-15231C?style=flat-square&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-15231C?style=flat-square&amp;logo=aseprite&amp;logoColor=D5C69A&amp;color=15231C" /> <img alt="Unity" src="https://img.shields.io/badge/Unity-15231C?style=flat-square&amp;logo=unity&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Blender" src="https://img.shields.io/badge/Blender-15231C?style=flat-square&amp;logo=blender&amp;logoColor=D5C69A&amp;color=15231C" /> <img alt="Git" src="https://img.shields.io/badge/Git-15231C?style=flat-square&amp;logo=git&amp;logoColor=BADB8D&amp;color=15231C" /><br /><sub>Visual Studio · Apache NetBeans</sub></td>
 </tr>
 <tr>
 <td><strong>Infraestructura &amp; datos</strong></td>
@@ -41,7 +42,7 @@
 
 - **Homelab:** servicios propios, contenedores, automatización y monitoreo con Python.
 - **Maker:** impresión FDM y resina, modelado en Blender y CAD, piezas mecánicas y acabados técnicos.
-- **Software y juegos:** aplicaciones, desarrollo móvil con Android Studio, integración de servicios de Firebase y Google y APIs, patrones de diseño y desarrollo 2D en Unity.
+- **Software y juegos:** aplicaciones, desarrollo móvil con Kotlin y Android Studio, integración de servicios de Firebase y Google y APIs, patrones de diseño y desarrollo 2D en Unity.
 - **Datos y exploración:** minería de datos, machine learning y laboratorios de seguridad web.
 
 </details>
