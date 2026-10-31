@@ -2,49 +2,55 @@
   <img src="./assets/geek-banner.svg" width="100%" alt="0bamium — José Méndez. Código, curiosidad y una buena playlist." />
 </p>
 
-<h1 align="center">¡Hola, geekers! 👾</h1>
+<h1 align="center">Mi laboratorio personal 👾</h1>
 
 <p align="center">
-  Soy <strong>José Méndez</strong>, también conocido como <strong>0bamium</strong>.<br />
-  Este es mi rincón para construir, experimentar y compartir lo que voy aprendiendo.
+  Soy <strong>José Méndez / 0bamium</strong>, estudiante de último año de Ingeniería de Software.<br />
+  Construyo proyectos personales entre servidores, contenedores y piezas impresas en 3D.
 </p>
 
 <p align="center">
-  <a href="#-inventario-tecnológico">🧰 Inventario</a> ·
-  <a href="#-misiones-destacadas">🚀 Proyectos</a> ·
-  <a href="#-soundtrack-de-la-sesión">🎧 Soundtrack</a>
+  <strong>Homelab · Docker · Maker · Impresión 3D · Hardware</strong>
 </p>
 
 ---
 
-### 🕹️ Partida en curso
+### 🛠️ En mi mesa de trabajo
 
 ```text
-PLAYER   José Méndez / 0bamium
-QUEST    Convertir ideas en proyectos que funcionen
-GEAR     .NET · C# · SQL Server
-BONUS    Una buena playlist para acompañar el código
+LAB      Servicios propios, Linux y contenedores
+MAKER    Diseñar → imprimir → montar → probar → iterar
+HARDWARE Raspberry Pi, prototipos y piezas a medida
+MODO     Aprender construyendo
 ```
 
-### 🧰 Inventario tecnológico
+### 🖥️ Homelab & contenedores
 
-Herramientas presentes en mis proyectos:
+Mi laboratorio es el espacio donde experimento con infraestructura y servicios propios.
+
+- **Linux y Raspberry Pi** como base para el servidor local.
+- **Docker y Portainer** para desplegar y administrar servicios.
+- **Pi-hole, Tailscale y Jellyfin** para DNS, acceso remoto y multimedia.
+- **Python** para automatización, monitoreo y bots de Telegram.
+
+### ⚙️ Maker, impresión 3D & hardware
+
+Del modelo digital al prototipo físico: diseño, fabrico y ajusto piezas para mis proyectos personales.
+
+- **Impresión FDM y resina** para prototipado y piezas mecánicas.
+- **Blender y CAD** para modelado y diseño de piezas a medida.
+- **Hardware y SBCs** para experimentar y conectar software con el mundo físico.
+- **Acabados técnicos y aerógrafo** como parte del proceso de fabricación.
+
+### 🧰 Herramientas del laboratorio
 
 <p>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-18122B?style=for-the-badge&amp;logo=csharp&amp;logoColor=C4B5FD" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-18122B?style=for-the-badge&amp;logo=dotnet&amp;logoColor=C4B5FD" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-18122B?style=for-the-badge&amp;logoColor=67E8F9" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-18122B?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=C4B5FD" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-18122B?style=for-the-badge&amp;logo=git&amp;logoColor=F472B6" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-18122B?style=for-the-badge&amp;logo=linux&amp;logoColor=67E8F9" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-18122B?style=for-the-badge&amp;logo=docker&amp;logoColor=67E8F9" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-18122B?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=F472B6" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-18122B?style=for-the-badge&amp;logo=python&amp;logoColor=C4B5FD" />
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-18122B?style=for-the-badge&amp;logo=blender&amp;logoColor=F472B6" />
 </p>
-
-### 🚀 Misiones destacadas
-
-| Proyecto | ¿Qué hay dentro? | Tecnologías / conceptos |
-| :--- | :--- | :--- |
-| 🦷 [DentAssist](https://github.com/0bamium/DentAssist) | Gestión de pacientes, turnos y tratamientos para una clínica dental. | ASP.NET Core MVC · EF Core · SQL Server |
-| 📚 [Letras Libres](https://github.com/0bamium/ProyectoLetrasLibres) | API para gestionar libros, usuarios y préstamos. | ASP.NET Core Web API · EF Core · Swagger |
-| 🎟️ [Turnos Digitales](https://github.com/0bamium/Sistema_de_Gestion_de_Turnos_Digitales) | Modelado de un sistema de turnos y notificaciones. | UML · POO · Patrones de diseño |
 
 ### 🎧 Soundtrack de la sesión
 
@@ -58,9 +64,10 @@ Herramientas presentes en mis proyectos:
   <a href="https://open.spotify.com/user/jose.mendez.aqueveque">Abrir mi Spotify ↗</a>
 </p>
 
+
 ---
 
 <p align="center">
-  <strong>Gracias por pasar por mi pequeño universo digital ✨</strong><br />
-  <sub>Siempre hay una próxima idea esperando su primer commit.</sub>
+  <strong>Construir. Probar. Ajustar. Repetir. ⚡</strong><br />
+  <sub>Entre una terminal abierta y una pieza saliendo de la impresora.</sub>
 </p>
