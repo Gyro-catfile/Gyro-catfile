@@ -127,11 +127,11 @@
 
 <a id="soundtrack"></a>
 <h2>05 &nbsp; <code>cat now-playing.txt</code></h2>
-<p><sub>Una buena playlist también es parte del entorno de trabajo.</sub></p>
+<p><sub>Lo que está sonando mientras construyo, pruebo o exploro.</sub></p>
 
 <p align="center">
   <a href="https://open.spotify.com/user/jose.mendez.aqueveque">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=jose.mendez.aqueveque&amp;cover_image=true&amp;theme=default&amp;bar_color=badb8d&amp;bar_color_cover=false" alt="Mi actividad en Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jose.mendez.aqueveque&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=0b1415&amp;border_radius=12&amp;bar_color=badb8d&amp;bar_color_cover=false&amp;mode=dark" width="420" alt="Escuchando en Spotify: canción y artista actuales" />
   </a>
 </p>
 
