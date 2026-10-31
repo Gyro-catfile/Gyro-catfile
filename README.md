@@ -130,13 +130,13 @@
 <p><sub>Lo que está sonando mientras construyo, pruebo o exploro.</sub></p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/jose.mendez.aqueveque">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jose.mendez.aqueveque&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=0b1415&amp;border_radius=12&amp;bar_color=badb8d&amp;bar_color_cover=false&amp;mode=dark" width="420" alt="Escuchando en Spotify: canción y artista actuales" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jose.mendez.aqueveque&amp;redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jose.mendez.aqueveque&amp;cover_image=true&amp;theme=spotify-embed&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;profanity=false&amp;hide_remaster=false&amp;mode=dark&amp;bar_color=53b14f&amp;bar_color_cover=true" width="460" alt="Spotify Now Playing — canción y artista actuales" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/jose.mendez.aqueveque">Escuchar en Spotify ↗</a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jose.mendez.aqueveque&amp;redirect=true">Abrir en Spotify ↗</a>
 </p>
 
 <br />
