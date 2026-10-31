@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>José Méndez</strong> · Estudiante de último año de Ingeniería de Software.<br />
+  <strong>José Méndez</strong> · Estudiante de Ingeniería de Software.<br />
   Software, videojuegos, datos y sistemas; también hardware e impresión 3D.<br />
   <sub>Aprender construyendo · Experimentar · Compartir</sub>
 </p>
