@@ -14,8 +14,8 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-15231C?style=flat-square&amp;logo=python&amp;logoColor=BADB8D&amp;color=15231C" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-15231C?style=flat-square&amp;logo=javascript&amp;logoColor=D5C69A&amp;color=15231C" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-15231C?style=flat-square&amp;logo=kotlin&amp;logoColor=BADB8D&amp;color=15231C" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-15231C?style=flat-square&amp;logoColor=D5C69A&amp;color=15231C" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-15231C?style=flat-square&amp;logoColor=D5C69A&amp;color=15231C" />
+  <img alt="Java" src="./assets/badges/java.svg" />
+  <img alt="C#" src="./assets/badges/csharp.svg" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-15231C?style=flat-square&amp;logo=postgresql&amp;logoColor=BADB8D&amp;color=15231C" />
   <br /><sub>Automatización y datos · Web y Android · POO y patrones · Unity y .NET · Bases relacionales<br />Entorno de ejecución: Node.js</sub>
 </p>
@@ -25,7 +25,7 @@
 <table>
 <tr>
 <td><strong>Desarrollo &amp; creación</strong></td>
-<td><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-15231C?style=flat-square&amp;logo=androidstudio&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-15231C?style=flat-square&amp;logo=nodedotjs&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-15231C?style=flat-square&amp;logoColor=D5C69A&amp;color=15231C" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-15231C?style=flat-square&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-15231C?style=flat-square&amp;logo=aseprite&amp;logoColor=D5C69A&amp;color=15231C" /> <img alt="Unity" src="https://img.shields.io/badge/Unity-15231C?style=flat-square&amp;logo=unity&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Blender" src="https://img.shields.io/badge/Blender-15231C?style=flat-square&amp;logo=blender&amp;logoColor=D5C69A&amp;color=15231C" /> <img alt="Git" src="https://img.shields.io/badge/Git-15231C?style=flat-square&amp;logo=git&amp;logoColor=BADB8D&amp;color=15231C" /><br /><sub>Apache NetBeans</sub></td>
+<td><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-15231C?style=flat-square&amp;logo=androidstudio&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-15231C?style=flat-square&amp;logo=nodedotjs&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Visual Studio" src="./assets/badges/visualstudio.svg" /> <img alt="VS Code" src="./assets/badges/vscode.svg" /> <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-15231C?style=flat-square&amp;logo=aseprite&amp;logoColor=D5C69A&amp;color=15231C" /> <img alt="Unity" src="https://img.shields.io/badge/Unity-15231C?style=flat-square&amp;logo=unity&amp;logoColor=BADB8D&amp;color=15231C" /> <img alt="Blender" src="https://img.shields.io/badge/Blender-15231C?style=flat-square&amp;logo=blender&amp;logoColor=D5C69A&amp;color=15231C" /> <img alt="Git" src="https://img.shields.io/badge/Git-15231C?style=flat-square&amp;logo=git&amp;logoColor=BADB8D&amp;color=15231C" /><br /><sub>Apache NetBeans</sub></td>
 </tr>
 <tr>
 <td><strong>Infraestructura &amp; datos</strong></td>
