@@ -42,15 +42,37 @@ Del modelo digital al prototipo físico: diseño, fabrico y ajusto piezas para m
 - **Hardware y SBCs** para experimentar y conectar software con el mundo físico.
 - **Acabados técnicos y aerógrafo** como parte del proceso de fabricación.
 
-### 🧰 Herramientas del laboratorio
+### 💻 Lenguajes con los que he trabajado
+
+`$ cat languages.txt`
 
 <p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-18122B?style=for-the-badge&amp;logo=linux&amp;logoColor=67E8F9" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-18122B?style=for-the-badge&amp;logo=docker&amp;logoColor=67E8F9" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-18122B?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=F472B6" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-18122B?style=for-the-badge&amp;logo=python&amp;logoColor=C4B5FD" />
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-18122B?style=for-the-badge&amp;logo=blender&amp;logoColor=F472B6" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-15231C?style=for-the-badge&amp;logo=python&amp;logoColor=BAdB8D&amp;labelColor=15231C&amp;color=15231C" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-15231C?style=for-the-badge&amp;logoColor=BAdB8D&amp;labelColor=15231C&amp;color=15231C" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-15231C?style=for-the-badge&amp;logoColor=BAdB8D&amp;labelColor=15231C&amp;color=15231C" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-15231C?style=for-the-badge&amp;logoColor=BAdB8D&amp;labelColor=15231C&amp;color=15231C" />
 </p>
+
+| Lenguaje | Dónde lo he utilizado |
+| :--- | :--- |
+| **Python** | Automatización, monitoreo del homelab y proyectos de minería de datos y machine learning. |
+| **Java** | Aplicaciones de consola, programación orientada a objetos y patrones de diseño. |
+| **C#** | Proyectos anteriores con ASP.NET Core y desarrollo de videojuegos en Unity 2D. |
+| **SQL** | Consultas y bases de datos relacionales con SQL Server y PostgreSQL. |
+
+### 🧰 Software y herramientas con los que he trabajado
+
+`$ cat tools.txt`
+
+| Área | Software, herramientas y plataformas |
+| :--- | :--- |
+| **Desarrollo** | Visual Studio · Apache NetBeans · Git |
+| **Videojuegos y modelado** | Unity · Blender |
+| **Contenedores e infraestructura** | Docker · Portainer · Tailscale |
+| **Bases de datos y backend** | SQL Server Management Studio · PostgreSQL · Supabase |
+| **Seguridad web** | Burp Suite · Kali Linux |
+| **Sistemas y terminal** | CachyOS · Windows · WSL2 · Hyprland · GNOME · Fish · Kitty |
+| **Servicios del homelab** | Pi-hole · Jellyfin |
 
 ### 🎧 Soundtrack de la sesión
 
