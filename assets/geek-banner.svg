@@ -1,14 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">0bamium — José Méndez</title><desc id="desc">Banner espacial con una ventana de código, estrellas y un pequeño robot pixel art.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1028"/><stop offset="1" stop-color="#241243"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity=".08"/></pattern></defs>
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-<g fill="#b5a1ff"><circle cx="760" cy="45" r="2"/><circle cx="1110" cy="80" r="3"/><circle cx="700" cy="295" r="2"/><circle cx="1150" cy="285" r="2"/><circle cx="620" cy="65" r="2"/></g>
-<g font-family="monospace"><text x="64" y="66" fill="#67e8f9" font-size="16" letter-spacing="4">PLAYER PROFILE / ONLINE</text>
-<text x="60" y="152" fill="#f5f3ff" font-size="76" font-weight="bold">0bamium<tspan fill="#c084fc">_</tspan></text>
-<text x="64" y="196" fill="#c4b5fd" font-size="23">José Méndez</text>
-<text x="64" y="254" fill="#e2e8f0" font-size="19">Código, curiosidad y una buena playlist.</text>
-<text x="64" y="306" fill="#67e8f9" font-size="15">[ BUILD ]  [ LEARN ]  [ REPEAT ]</text></g>
-<rect x="800" y="70" width="310" height="220" rx="16" fill="#0b1020" stroke="#a78bfa" stroke-opacity=".5"/>
-<path d="M800 108H1110" stroke="#a78bfa" stroke-opacity=".3"/><g fill="#f472b6"><circle cx="822" cy="90" r="4"/></g><circle cx="838" cy="90" r="4" fill="#fbbf24"/><circle cx="854" cy="90" r="4" fill="#34d399"/>
-<g shape-rendering="crispEdges"><path d="M948 128h16v16h-16zM916 150h80v16h16v64h-16v16h-80v-16h-16v-64h16z" fill="#c4b5fd"/><path d="M916 170h80v44h-80z" fill="#17132e"/><path d="M930 182h12v12h-12zM970 182h12v12h-12z" fill="#67e8f9"/><path d="M942 218h28v8h-28z" fill="#7c3aed"/><path d="M900 178h-12v32h12zM1012 178h12v32h-12z" fill="#c084fc"/></g>
-<text x="955" y="272" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="13">status: creating cool stuff</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+<title id="title">0bamium · Laboratorio personal</title>
+<desc id="desc">José Méndez. Homelab, Docker, maker, impresión 3D y hardware. Ilustración técnica de un servidor y una impresora 3D sobre una mesa de laboratorio.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090f18"/><stop offset="1" stop-color="#17152c"/></linearGradient>
+<linearGradient id="metal" x2="1" y2="1"><stop stop-color="#253348"/><stop offset="1" stop-color="#101823"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#56e6db"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#73b7ca" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1500" height="500" rx="20" fill="url(#bg)"/>
+<rect width="1500" height="500" rx="20" fill="url(#grid)"/>
+<path d="M0 0H1500" stroke="url(#accent)" stroke-width="6"/>
+<g fill="none" stroke="#56e6db" opacity=".15" stroke-width="1.5"><path d="M0 380H35L60 355H155M1500 90H1435L1410 115H1350M1500 430H1410L1380 400H1330"/><circle cx="155" cy="355" r="4"/><circle cx="1350" cy="115" r="4"/></g>
+<g font-family="'Segoe UI',Arial,sans-serif">
+<g font-family="Consolas,monospace" fill="#56e6db" font-size="14" letter-spacing="3"><text x="70" y="65">LAB / 0B-01</text><text x="1430" y="65" text-anchor="end">PERSONAL WORKSPACE</text></g>
+<text x="65" y="190" fill="#f2f5fa" font-size="98" font-weight="700" letter-spacing="-5">0bamium<tspan fill="#56e6db">_</tspan></text>
+<text x="72" y="231" fill="#aab9cc" font-size="22" letter-spacing="2">JOSÉ MÉNDEZ</text>
+<text x="72" y="294" fill="#e0e7ef" font-size="25">Ideas digitales. Prototipos reales.</text>
+<g font-family="Consolas,monospace" font-size="15" fill="#95a7bc">
+<text x="72" y="337">HOMELAB / DOCKER / MAKER</text>
+<text x="72" y="363">IMPRESIÓN 3D / HARDWARE</text>
+</g>
+<path d="M72 410H660" stroke="#334155"/>
+<text x="72" y="444" fill="#75899f" font-family="Consolas,monospace" font-size="13" letter-spacing="2">CONSTRUIR → PROBAR → AJUSTAR → REPETIR</text>
+</g>
+<!-- Workbench and circuit routes -->
+<path d="M770 389H1425" stroke="#73869e" stroke-width="2"/>
+<path d="M800 396H1398M825 398V420M1370 398V420" stroke="#35445b" stroke-width="3"/>
+<g fill="none" stroke="#56e6db" stroke-opacity=".35" stroke-width="2"><path d="M948 376V420H1125V402M988 335H1030V300H1055"/><circle cx="1125" cy="402" r="4"/></g>
+<!-- Homelab rack -->
+<g stroke-linejoin="round">
+<rect x="801" y="145" width="190" height="242" rx="9" fill="#0b121d" stroke="#455571" stroke-width="2"/>
+<path d="M814 166H978M814 365H978" stroke="#36465e"/>
+<g fill="url(#metal)" stroke="#405169">
+<rect x="817" y="184" width="157" height="48" rx="4"/><rect x="817" y="242" width="157" height="48" rx="4"/><rect x="817" y="300" width="157" height="48" rx="4"/>
+</g>
+<g stroke="#60728c" stroke-width="3"><path d="M830 199H889M830 208H889M830 217H889M830 257H889M830 266H889M830 275H889M830 315H889M830 324H889M830 333H889"/></g>
+<g fill="#56e6db"><circle cx="953" cy="208" r="4"/><circle cx="953" cy="266" r="4"/><circle cx="953" cy="324" r="4"/></g>
+<g fill="#63748c"><rect x="909" y="203" width="13" height="10" rx="1"/><rect x="909" y="261" width="13" height="10" rx="1"/><rect x="909" y="319" width="13" height="10" rx="1"/></g>
+</g>
+<!-- Container modules -->
+<g stroke="#8d7ac2" fill="#242039" stroke-width="1.5">
+<rect x="824" y="117" width="35" height="22" rx="2"/><rect x="865" y="117" width="35" height="22" rx="2"/><rect x="906" y="117" width="35" height="22" rx="2"/><rect x="865" y="89" width="35" height="22" rx="2"/>
+</g>
+<!-- 3D printer gantry -->
+<g stroke-linejoin="round">
+<path d="M1072 356V149H1327V356" fill="none" stroke="#0a101a" stroke-width="21"/>
+<path d="M1072 356V149H1327V356" fill="none" stroke="#64738b" stroke-width="9"/>
+<path d="M1082 189H1317" stroke="#29374d" stroke-width="13"/>
+<path d="M1082 186H1317" stroke="#8b9bb0" stroke-width="2"/>
+<!-- Spool -->
+<circle cx="1361" cy="159" r="36" fill="#172132" stroke="#5c6c85" stroke-width="3"/><circle cx="1361" cy="159" r="24" fill="none" stroke="#a78bfa" stroke-width="8"/><circle cx="1361" cy="159" r="7" fill="#78869c"/>
+<path d="M1361 195V346M1327 159H1334" stroke="#5c6c85" stroke-width="5"/>
+<path d="M1345 130Q1270 79 1201 167" fill="none" stroke="#a78bfa" stroke-width="2"/>
+<!-- Print head -->
+<rect x="1179" y="169" width="45" height="39" rx="5" fill="url(#metal)" stroke="#8b9bb0" stroke-width="1.5"/>
+<circle cx="1201" cy="188" r="10" fill="#101723" stroke="#4a5e78"/><path d="M1195 183L1207 194M1207 183L1195 194" stroke="#56e6db" stroke-width="2"/>
+<path d="M1194 209H1208L1201 222Z" fill="#b4a0e5"/>
+<path d="M1201 222V247" stroke="#56e6db" stroke-width="2" stroke-dasharray="3 4"/>
+<!-- Printed mechanical part -->
+<path d="M1160 329V286L1180 270H1224L1244 286V329Z" fill="#174449" stroke="#56e6db" stroke-width="2"/>
+<path d="M1180 270V310H1224V270M1160 286H1180M1224 286H1244" fill="none" stroke="#56e6db" stroke-opacity=".6"/>
+<g stroke="#56e6db" opacity=".25"><path d="M1161 317H1243M1161 322H1243M1161 327H1243M1161 293H1179M1225 293H1243M1161 299H1179M1225 299H1243"/></g>
+<!-- Bed and base -->
+<path d="M1105 333H1297L1310 345H1092Z" fill="#27344a" stroke="#7a8aa1" stroke-width="1.5"/>
+<path d="M1122 346V363M1281 346V363" stroke="#65728b" stroke-width="5"/>
+<rect x="1055" y="362" width="291" height="25" rx="5" fill="url(#metal)" stroke="#54647e" stroke-width="1.5"/>
+<rect x="1254" y="367" width="48" height="14" rx="2" fill="#102b35" stroke="#409a9d"/><path d="M1261 374H1288" stroke="#56e6db"/>
+<circle cx="1323" cy="374" r="5" fill="#a78bfa"/>
+</g>
+<g font-family="Consolas,monospace" font-size="12" letter-spacing="2" fill="#74869e"><text x="804" y="450">01 / SELF-HOSTED</text><text x="1080" y="450">02 / DIGITAL FABRICATION</text></g>
+<g fill="#56e6db"><circle cx="780" cy="61" r="3"/></g>
+</svg>
