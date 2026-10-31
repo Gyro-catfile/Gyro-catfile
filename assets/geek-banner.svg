@@ -1,73 +1,66 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
-<title id="title">0bamium · Laboratorio personal</title>
-<desc id="desc">José Méndez. Homelab, Docker, maker, impresión 3D y hardware. Ilustración técnica de un servidor y una impresora 3D sobre una mesa de laboratorio.</desc>
+<title id="title">Gyro-catfile — cat about.md</title>
+<desc id="desc">Banner de terminal verde con un gato de sombrero y una esfera de acero. Software, juegos, sistemas y hardware.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090f18"/><stop offset="1" stop-color="#17152c"/></linearGradient>
-<linearGradient id="metal" x2="1" y2="1"><stop stop-color="#253348"/><stop offset="1" stop-color="#101823"/></linearGradient>
-<linearGradient id="accent"><stop stop-color="#56e6db"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#73b7ca" stroke-opacity=".055"/></pattern>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1415"/><stop offset="1" stop-color="#121d1b"/></linearGradient>
+<linearGradient id="hat" x2=".8" y2="1"><stop stop-color="#425c43"/><stop offset="1" stop-color="#233a32"/></linearGradient>
+<radialGradient id="steel" cx=".3" cy=".25" r=".8"><stop stop-color="#edf3d6"/><stop offset=".3" stop-color="#b9c7a1"/><stop offset=".65" stop-color="#657a6e"/><stop offset="1" stop-color="#263e38"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b7d99b" stroke-opacity=".035"/></pattern>
 </defs>
 <rect width="1500" height="500" rx="20" fill="url(#bg)"/>
 <rect width="1500" height="500" rx="20" fill="url(#grid)"/>
-<path d="M0 0H1500" stroke="url(#accent)" stroke-width="6"/>
-<g fill="none" stroke="#56e6db" opacity=".15" stroke-width="1.5"><path d="M0 380H35L60 355H155M1500 90H1435L1410 115H1350M1500 430H1410L1380 400H1330"/><circle cx="155" cy="355" r="4"/><circle cx="1350" cy="115" r="4"/></g>
-<g font-family="'Segoe UI',Arial,sans-serif">
-<g font-family="Consolas,monospace" fill="#56e6db" font-size="14" letter-spacing="3"><text x="70" y="65">LAB / 0B-01</text><text x="1430" y="65" text-anchor="end">PERSONAL WORKSPACE</text></g>
-<text x="65" y="190" fill="#f2f5fa" font-size="98" font-weight="700" letter-spacing="-5">0bamium<tspan fill="#56e6db">_</tspan></text>
-<text x="72" y="231" fill="#aab9cc" font-size="22" letter-spacing="2">JOSÉ MÉNDEZ</text>
-<text x="72" y="294" fill="#e0e7ef" font-size="25">Ideas digitales. Prototipos reales.</text>
-<g font-family="Consolas,monospace" font-size="15" fill="#95a7bc">
-<text x="72" y="337">HOMELAB / DOCKER / MAKER</text>
-<text x="72" y="363">IMPRESIÓN 3D / HARDWARE</text>
+<rect x="25" y="25" width="1450" height="450" rx="13" fill="none" stroke="#7d9b71" stroke-opacity=".23"/>
+<!-- terminal chrome -->
+<path d="M25 77H1475" stroke="#7d9b71" stroke-opacity=".23"/>
+<circle cx="52" cy="51" r="5" fill="#af785f"/><circle cx="72" cy="51" r="5" fill="#c6b27b"/><circle cx="92" cy="51" r="5" fill="#a4c787"/>
+<text x="750" y="56" text-anchor="middle" font-family="Consolas,monospace" fill="#779182" font-size="13" letter-spacing="2">~/personal-space</text>
+<text x="1439" y="56" text-anchor="end" font-family="Consolas,monospace" fill="#779182" font-size="13">UTF-8</text>
+<!-- terminal content -->
+<g font-family="Consolas,'Courier New',monospace">
+<text x="76" y="133" font-size="19"><tspan fill="#badb8d">gyro</tspan><tspan fill="#6d8b7b">@</tspan><tspan fill="#d7deca">localhost</tspan><tspan fill="#6d8b7b">:~$ </tspan><tspan fill="#f1edda">cat</tspan><tspan fill="#b2bfb1"> about.md</tspan></text>
+<text x="72" y="222" fill="#eff0de" font-size="76" font-weight="700" letter-spacing="-4">Gyro-catfile<tspan fill="#badb8d">_</tspan></text>
+<text x="78" y="272" fill="#b8c7b8" font-size="21">Curiosidad, código y cosas por construir.</text>
+<g font-size="15">
+<text x="78" y="323" fill="#badb8d">software</text><text x="178" y="323" fill="#557362">/</text>
+<text x="200" y="323" fill="#d5c69a">games</text><text x="271" y="323" fill="#557362">/</text>
+<text x="294" y="323" fill="#badb8d">systems</text><text x="387" y="323" fill="#557362">/</text>
+<text x="409" y="323" fill="#d5c69a">hardware</text>
 </g>
-<path d="M72 410H660" stroke="#334155"/>
-<text x="72" y="444" fill="#75899f" font-family="Consolas,monospace" font-size="13" letter-spacing="2">CONSTRUIR → PROBAR → AJUSTAR → REPETIR</text>
+<path d="M78 358H785" stroke="#344a3d"/>
+<text x="78" y="394" fill="#819d89" font-size="15">Explorar. Crear. Compartir.</text>
+<text x="78" y="439" fill="#badb8d" font-size="18">$ <tspan fill="#d5c69a">▍</tspan></text>
 </g>
-<!-- Workbench and circuit routes -->
-<path d="M770 389H1425" stroke="#73869e" stroke-width="2"/>
-<path d="M800 396H1398M825 398V420M1370 398V420" stroke="#35445b" stroke-width="3"/>
-<g fill="none" stroke="#56e6db" stroke-opacity=".35" stroke-width="2"><path d="M948 376V420H1125V402M988 335H1030V300H1055"/><circle cx="1125" cy="402" r="4"/></g>
-<!-- Homelab rack -->
-<g stroke-linejoin="round">
-<rect x="801" y="145" width="190" height="242" rx="9" fill="#0b121d" stroke="#455571" stroke-width="2"/>
-<path d="M814 166H978M814 365H978" stroke="#36465e"/>
-<g fill="url(#metal)" stroke="#405169">
-<rect x="817" y="184" width="157" height="48" rx="4"/><rect x="817" y="242" width="157" height="48" rx="4"/><rect x="817" y="300" width="157" height="48" rx="4"/>
+<!-- subtle orbit -->
+<g fill="none" stroke="#b8ce97"><circle cx="1166" cy="265" r="151" stroke-opacity=".08"/><circle cx="1166" cy="265" r="169" stroke-opacity=".05"/><path d="M1004 224A169 169 0 0 1 1145 97" stroke-opacity=".32"/><path d="M1220 425A169 169 0 0 0 1331 310" stroke-opacity=".22"/></g>
+<g fill="#b8ce97"><circle cx="1145" cy="97" r="3"/><circle cx="1331" cy="310" r="3"/></g>
+<!-- cat silhouette -->
+<g stroke-linejoin="round" stroke-linecap="round">
+<path d="M1250 367C1367 391 1347 291 1306 319C1277 340 1332 346 1290 357L1243 350" fill="none" stroke="#829481" stroke-width="23"/>
+<path d="M1090 353Q1084 293 1122 273H1219Q1256 300 1248 364L1219 385H1113Z" fill="#93a18c" stroke="#182e26" stroke-width="4"/>
+<!-- ears and face -->
+<path d="M1078 238L1074 155L1127 190Q1166 172 1208 190L1260 155L1254 237Q1266 282 1221 306Q1166 332 1114 305Q1070 285 1078 238Z" fill="#c5cbb2" stroke="#182e26" stroke-width="4"/>
+<path d="M1088 183L1110 207L1090 218ZM1247 183L1225 207L1244 218Z" fill="#849784"/>
+<!-- eye mask and face -->
+<path d="M1090 244Q1121 227 1150 246M1183 246Q1212 227 1242 244" fill="none" stroke="#7f927c" stroke-width="18"/>
+<path d="M1107 246L1134 249M1199 249L1226 246" stroke="#21382c" stroke-width="5"/>
+<path d="M1158 268H1175L1166 276Z" fill="#596e57"/>
+<path d="M1166 276V282Q1155 293 1144 284M1166 282Q1177 293 1188 284" fill="none" stroke="#3b5542" stroke-width="3"/>
+<g stroke="#74866f" stroke-width="2"><path d="M1097 271L1057 262M1099 281H1055M1235 271L1275 262M1233 281H1277"/></g>
+<!-- hat crown and wide brim -->
+<path d="M1093 187L1107 120Q1162 96 1225 120L1240 187Z" fill="url(#hat)" stroke="#172c24" stroke-width="4"/>
+<path d="M1100 158Q1163 178 1234 158L1239 180Q1167 199 1095 180Z" fill="#5c4370"/>
+<g fill="#c8ce9c" stroke="#263c2c" stroke-width="2"><circle cx="1118" cy="174" r="7"/><circle cx="1149" cy="179" r="7"/><circle cx="1181" cy="180" r="7"/><circle cx="1212" cy="174" r="7"/></g>
+<path d="M1048 188Q1159 214 1287 187Q1298 204 1277 216Q1163 244 1056 215Q1037 206 1048 188Z" fill="#354e39" stroke="#172c24" stroke-width="4"/>
+<path d="M1060 201Q1167 226 1278 201" fill="none" stroke="#8b9f66" stroke-width="2"/>
+<!-- bandana -->
+<path d="M1113 304Q1165 325 1220 305L1203 328L1166 344L1126 326Z" fill="#69527b" stroke="#283b2b" stroke-width="3"/>
+<!-- steel ball with spin line -->
+<circle cx="1172" cy="361" r="35" fill="url(#steel)" stroke="#354c41" stroke-width="2"/>
+<path d="M1153 337Q1197 339 1189 371Q1180 392 1157 377Q1143 365 1165 355Q1178 350 1179 363" fill="none" stroke="#d9e2bf" stroke-opacity=".65" stroke-width="2"/>
+<!-- paws -->
+<ellipse cx="1118" cy="366" rx="27" ry="17" fill="#c5cbb2" stroke="#283e30" stroke-width="3" transform="rotate(19 1118 366)"/>
+<ellipse cx="1221" cy="366" rx="27" ry="17" fill="#c5cbb2" stroke="#283e30" stroke-width="3" transform="rotate(-19 1221 366)"/>
+<path d="M1108 365L1106 372M1117 368L1115 375M1223 368L1225 375M1232 365L1234 372" stroke="#82947b" stroke-width="2"/>
 </g>
-<g stroke="#60728c" stroke-width="3"><path d="M830 199H889M830 208H889M830 217H889M830 257H889M830 266H889M830 275H889M830 315H889M830 324H889M830 333H889"/></g>
-<g fill="#56e6db"><circle cx="953" cy="208" r="4"/><circle cx="953" cy="266" r="4"/><circle cx="953" cy="324" r="4"/></g>
-<g fill="#63748c"><rect x="909" y="203" width="13" height="10" rx="1"/><rect x="909" y="261" width="13" height="10" rx="1"/><rect x="909" y="319" width="13" height="10" rx="1"/></g>
-</g>
-<!-- Container modules -->
-<g stroke="#8d7ac2" fill="#242039" stroke-width="1.5">
-<rect x="824" y="117" width="35" height="22" rx="2"/><rect x="865" y="117" width="35" height="22" rx="2"/><rect x="906" y="117" width="35" height="22" rx="2"/><rect x="865" y="89" width="35" height="22" rx="2"/>
-</g>
-<!-- 3D printer gantry -->
-<g stroke-linejoin="round">
-<path d="M1072 356V149H1327V356" fill="none" stroke="#0a101a" stroke-width="21"/>
-<path d="M1072 356V149H1327V356" fill="none" stroke="#64738b" stroke-width="9"/>
-<path d="M1082 189H1317" stroke="#29374d" stroke-width="13"/>
-<path d="M1082 186H1317" stroke="#8b9bb0" stroke-width="2"/>
-<!-- Spool -->
-<circle cx="1361" cy="159" r="36" fill="#172132" stroke="#5c6c85" stroke-width="3"/><circle cx="1361" cy="159" r="24" fill="none" stroke="#a78bfa" stroke-width="8"/><circle cx="1361" cy="159" r="7" fill="#78869c"/>
-<path d="M1361 195V346M1327 159H1334" stroke="#5c6c85" stroke-width="5"/>
-<path d="M1345 130Q1270 79 1201 167" fill="none" stroke="#a78bfa" stroke-width="2"/>
-<!-- Print head -->
-<rect x="1179" y="169" width="45" height="39" rx="5" fill="url(#metal)" stroke="#8b9bb0" stroke-width="1.5"/>
-<circle cx="1201" cy="188" r="10" fill="#101723" stroke="#4a5e78"/><path d="M1195 183L1207 194M1207 183L1195 194" stroke="#56e6db" stroke-width="2"/>
-<path d="M1194 209H1208L1201 222Z" fill="#b4a0e5"/>
-<path d="M1201 222V247" stroke="#56e6db" stroke-width="2" stroke-dasharray="3 4"/>
-<!-- Printed mechanical part -->
-<path d="M1160 329V286L1180 270H1224L1244 286V329Z" fill="#174449" stroke="#56e6db" stroke-width="2"/>
-<path d="M1180 270V310H1224V270M1160 286H1180M1224 286H1244" fill="none" stroke="#56e6db" stroke-opacity=".6"/>
-<g stroke="#56e6db" opacity=".25"><path d="M1161 317H1243M1161 322H1243M1161 327H1243M1161 293H1179M1225 293H1243M1161 299H1179M1225 299H1243"/></g>
-<!-- Bed and base -->
-<path d="M1105 333H1297L1310 345H1092Z" fill="#27344a" stroke="#7a8aa1" stroke-width="1.5"/>
-<path d="M1122 346V363M1281 346V363" stroke="#65728b" stroke-width="5"/>
-<rect x="1055" y="362" width="291" height="25" rx="5" fill="url(#metal)" stroke="#54647e" stroke-width="1.5"/>
-<rect x="1254" y="367" width="48" height="14" rx="2" fill="#102b35" stroke="#409a9d"/><path d="M1261 374H1288" stroke="#56e6db"/>
-<circle cx="1323" cy="374" r="5" fill="#a78bfa"/>
-</g>
-<g font-family="Consolas,monospace" font-size="12" letter-spacing="2" fill="#74869e"><text x="804" y="450">01 / SELF-HOSTED</text><text x="1080" y="450">02 / DIGITAL FABRICATION</text></g>
-<g fill="#56e6db"><circle cx="780" cy="61" r="3"/></g>
+<text x="1168" y="431" text-anchor="middle" font-family="Consolas,monospace" fill="#78917e" font-size="12" letter-spacing="3">READ FILES. STAY CURIOUS.</text>
 </svg>
