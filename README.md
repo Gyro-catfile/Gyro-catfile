@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./assets/geek-banner.svg" width="100%" alt="0bamium — José Méndez. Código, curiosidad y una buena playlist." />
+  <img src="./assets/geek-banner.svg" width="100%" alt="Gyro-catfile — cat about.md. Software, juegos, sistemas y hardware." />
 </p>
 
-<h1 align="center">Mi laboratorio personal 👾</h1>
+<h1 align="center">cat about.md 🐾</h1>
 
 <p align="center">
-  Soy <strong>José Méndez / 0bamium</strong>, estudiante de último año de Ingeniería de Software.<br />
-  Construyo proyectos personales entre servidores, contenedores y piezas impresas en 3D.
+  Soy <strong>José Méndez / Gyro-catfile</strong>, estudiante de último año de Ingeniería de Software.<br />
+  Exploro software, videojuegos, datos e infraestructura; también construyo proyectos de hardware e impresión 3D.
 </p>
 
 <p align="center">
-  <strong>Homelab · Docker · Maker · Impresión 3D · Hardware</strong>
+  <strong>Software · Videojuegos · Sistemas · Hardware</strong>
 </p>
 
 ---
